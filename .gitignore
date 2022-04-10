@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+venv
+com_tech_test/api/migrations
+.idea
